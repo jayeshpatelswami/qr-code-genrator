@@ -1,0 +1,25 @@
+.containers{
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 10px;
+}
+
+.Qrholder{
+    margin: 5px;
+   
+}
+
+.inputholder {
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 10px;
+}
+.intype{
+    width: 90%  ;
+}
